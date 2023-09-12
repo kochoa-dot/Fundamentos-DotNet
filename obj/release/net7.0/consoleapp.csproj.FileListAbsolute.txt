@@ -1,0 +1,14 @@
+D:\Cursos\Netcore\platzi\consoleapp\bin\release\net7.0\consoleapp.exe
+D:\Cursos\Netcore\platzi\consoleapp\bin\release\net7.0\consoleapp.deps.json
+D:\Cursos\Netcore\platzi\consoleapp\bin\release\net7.0\consoleapp.runtimeconfig.json
+D:\Cursos\Netcore\platzi\consoleapp\bin\release\net7.0\consoleapp.dll
+D:\Cursos\Netcore\platzi\consoleapp\bin\release\net7.0\consoleapp.pdb
+D:\Cursos\Netcore\platzi\consoleapp\obj\release\net7.0\consoleapp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Netcore\platzi\consoleapp\obj\release\net7.0\consoleapp.AssemblyInfoInputs.cache
+D:\Cursos\Netcore\platzi\consoleapp\obj\release\net7.0\consoleapp.AssemblyInfo.cs
+D:\Cursos\Netcore\platzi\consoleapp\obj\release\net7.0\consoleapp.csproj.CoreCompileInputs.cache
+D:\Cursos\Netcore\platzi\consoleapp\obj\release\net7.0\consoleapp.dll
+D:\Cursos\Netcore\platzi\consoleapp\obj\release\net7.0\refint\consoleapp.dll
+D:\Cursos\Netcore\platzi\consoleapp\obj\release\net7.0\consoleapp.pdb
+D:\Cursos\Netcore\platzi\consoleapp\obj\release\net7.0\consoleapp.genruntimeconfig.cache
+D:\Cursos\Netcore\platzi\consoleapp\obj\release\net7.0\ref\consoleapp.dll
